@@ -2,7 +2,7 @@
 
 博主精通 WEB 前端开发，前端架构设计，photoshopUI 设计,对前端性能优化，前端漏洞攻防等技术有深入实践经验！欢迎交流学习。
 
-<a href="https://goog.tech"><img align='right' src='https://code-nav.top/statics/img/webinfo/py.gif' width='280'></a>
+<a href="https://goog.tech"><img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'></a>
 
 ### 我的主页
 
